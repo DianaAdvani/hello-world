@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-Example repository
+Example repository. 
+
+This is a demo to see if I understand how to use GitHib. 
